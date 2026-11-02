@@ -73,7 +73,7 @@ Based on isolated symmetric 1D TE0 slab modes, weak-coupling scalar CMT.
 Lengths in um; beta, kappa, delta in um^-1.
 No user files are modified or overwritten.
 """
-import numpy as np
+
 import matplotlib.pyplot as plt
 from scipy.optimize import brentq
 from scipy.integrate import trapezoid
